@@ -1,0 +1,22 @@
+{
+    "name": "factory/php",
+    "autoload": {
+        "psr-4": {
+            "Factory\\Php\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JoaoPedroFerreiraPedreira",
+            "email": "joao.pedreira@estudante.ufjf.br"
+        }
+    ],
+    "config": {
+        "platform": {
+            "php": "8.2"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.3"
+    }
+}
