@@ -14,6 +14,6 @@ public class PagarMe implements iIntermediadorPagamento {
 
     @Override
     public String credito(String dadosPedido, String dadosUsuario) {
-        return "dados do pagamento com credito na Pagarme ";
+        return "dados do pagamento com credito na Pagarme";
     }
 }
