@@ -3,7 +3,7 @@
         'name' => 'factory/php',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'c9c62de17786e7bf11571fc691ce420386de1a68',
+        'reference' => '3de71b03cdfb884888743fe72f3f927f93b7ba29',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'factory/php' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'c9c62de17786e7bf11571fc691ce420386de1a68',
+            'reference' => '3de71b03cdfb884888743fe72f3f927f93b7ba29',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

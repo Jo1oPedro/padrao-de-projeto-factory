@@ -1,0 +1,15 @@
+Intermediador Pagamento (Factory\Test\IntermediadorPagamento)
+ [x] Deve retornar intermediador pagamento inexistente
+ [x] Deve retornar intermediador pagamento invalido
+ [x] Deve retornar intermediador pagamento com sucesso
+
+Mercado Pago (Factory\Test\MercadoPago)
+ [x] Deve realizar pedido pix com sucesso
+ [x] Deve realizar pedido boleto com sucesso
+ [x] Deve realizar pedido credito com sucesso
+
+Pagar Me (Factory\Test\PagarMe)
+ [x] Deve realizar pedido pix com sucesso
+ [x] Deve realizar pedido boleto com sucesso
+ [x] Deve realizar pedido credito com sucesso
+
