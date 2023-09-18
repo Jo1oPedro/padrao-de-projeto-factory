@@ -23,9 +23,6 @@ class IntermediadorPagamentoFactory
     }
 
     public function recuperaIntermediador(): iIntermediadorPagamento {
-        if(is_null($this->intermediadorPagamento)) {
-            throw new \Error('Nenhum intermediador de pagamento definido');
-        }
         return $this->intermediadorPagamento;
     }
 }
